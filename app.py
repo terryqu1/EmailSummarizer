@@ -8,7 +8,7 @@ from langchain.chains.llm import LLMChain
 from langchain.prompts import PromptTemplate
 from langchain.chains.combine_documents.stuff import StuffDocumentsChain
 from langchain.chat_models import ChatOpenAI
-
+ 
 app = Flask(__name__)
 
 openai_api_key = os.getenv("OPENAI_API_KEY")
