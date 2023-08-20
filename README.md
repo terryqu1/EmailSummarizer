@@ -29,8 +29,5 @@ Change to the repository directory using the cd command:
 
 > python app.py
 
-## Contributing
-If you'd like to contribute to this project, please read our Contributing Guidelines.
-
 ## Issues and Support
 If you encounter any issues or need help, please open an issue on this repository.
